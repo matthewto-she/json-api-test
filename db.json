@@ -120,10 +120,8 @@
 		  "quick_reply_options": {
 			"process_text_by_ai": false,
 			"text_attribute_name": "shop_location"
-		  }
-		},
-		{
-			"quick_replies": [
+		  },
+		  "quick_replies": [
 			{
 			  "title": "銅鑼灣皇室堡",
 			  "set_attributes": {
