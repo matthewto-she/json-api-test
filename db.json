@@ -120,60 +120,6 @@
 		  "quick_reply_options": {
 			"process_text_by_ai": false,
 			"text_attribute_name": "shop_location"
-		  },
-		  "quick_replies": [
-			{
-			  "title": "銅鑼灣皇室堡",
-			  "set_attributes": {
-				"shop_location": "11"
-			  }
-			},
-			{
-			  "title": "銅鑼灣世貿中心",
-			  "set_attributes": {
-				"shop_location": "12"
-			  }
-			},
-			{
-			  "title": "鰂魚涌AEON STYLE",
-			  "set_attributes": {
-				"shop_location": "13"
-			  }
-			},
-			{
-			  "title": "旺角朗豪坊2樓",
-			  "set_attributes": {
-				"shop_location": "14"
-			  }
-			},
-			{
-			  "title": "九龍灣德福廣場",
-			  "set_attributes": {
-				"shop_location": "15"
-			  }
-			},
-						{
-			  "title": "A銅鑼灣皇室堡",
-			  "set_attributes": {
-				"shop_location": "16"
-			  }
-			},
-			{
-			  "title": "A銅鑼灣世貿中心",
-			  "set_attributes": {
-				"shop_location": "17"
-			  }
-			},
-			{
-			  "title": "A鰂魚涌AEON STYLE",
-			  "set_attributes": {
-				"shop_location": "18"
-			  }
-			}
-		  ],
-		  "quick_reply_options": {
-			"process_text_by_ai": false,
-			"text_attribute_name": "shop_location"
 		  }
 		}
 	  ]
