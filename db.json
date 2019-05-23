@@ -68,18 +68,7 @@
 				"shop_location": "3"
 			  }
 			},
-			{
-			  "title": "旺角朗豪坊2樓",
-			  "set_attributes": {
-				"shop_location": "4"
-			  }
-			},
-			{
-			  "title": "九龍灣德福廣場",
-			  "set_attributes": {
-				"shop_location": "5"
-			  }
-			},
+
 		  ],
 		  "quick_reply_options": {
 			"process_text_by_ai": false,
