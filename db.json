@@ -116,7 +116,7 @@
 				"shop_location": "11"
 			  }
 			}
-		  ]
+		  ],
 		  "quick_reply_options": {
 			"process_text_by_ai": false,
 			"text_attribute_name": "shop_location"
@@ -172,7 +172,7 @@
 				"shop_location": "18"
 			  }
 			}
-		  ],
+		  ]
 		}
 	  ]
 
