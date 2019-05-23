@@ -43,5 +43,37 @@
 		  }
 		}
 	  ]
+	},
+	"different_answers":
+	{
+	  "messages": [
+		{
+		  "text": "text",
+		  "quick_replies": [
+			{
+			  "title": "銅鑼灣",
+			  "set_attributes": {
+				"shop_id": "1"
+			  }
+			},
+			{
+			  "title": "鰂魚涌",
+			  "set_attributes": {
+				"shop_id": "2"
+			  }
+			},
+			{
+			  "title": "旺角",
+			  "set_attributes": {
+				"shop_id": "3"
+			  }
+			}
+		  ],
+		  "quick_reply_options": {
+			"process_text_by_ai": false,
+			"text_attribute_name": "location"
+		  }
+		}
+	  ]
 	}
 }
