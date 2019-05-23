@@ -110,36 +110,7 @@
 				"shop_location": "10"
 			  }
 			},
-						{
-			  "title": "B銅鑼灣皇室堡",
-			  "set_attributes": {
-				"shop_location": "11"
-			  }
-			},
-			{
-			  "title": "B銅鑼灣世貿中心",
-			  "set_attributes": {
-				"shop_location": "12"
-			  }
-			},
-			{
-			  "title": "B鰂魚涌AEON STYLE",
-			  "set_attributes": {
-				"shop_location": "13"
-			  }
-			},
-			{
-			  "title": "B旺角朗豪坊2樓",
-			  "set_attributes": {
-				"shop_location": "14"
-			  }
-			},
-			{
-			  "title": "B九龍灣德福廣場",
-			  "set_attributes": {
-				"shop_location": "15"
-			  }
-			},
+
 		  ],
 		  "quick_reply_options": {
 			"process_text_by_ai": false,
