@@ -91,6 +91,30 @@
 			  "set_attributes": {
 				"shop_location": "7"
 			  }
+			},
+			{
+			  "title": "A鰂魚涌AEON STYLE",
+			  "set_attributes": {
+				"shop_location": "8"
+			  }
+			},
+			{
+			  "title": "A旺角朗豪坊2樓",
+			  "set_attributes": {
+				"shop_location": "9"
+			  }
+			},
+			{
+			  "title": "A九龍灣德福廣場",
+			  "set_attributes": {
+				"shop_location": "10"
+			  }
+			},
+			{
+			  "title": "B銅鑼灣皇室堡",
+			  "set_attributes": {
+				"shop_location": "11"
+			  }
 			}
 		  ],
 		  "quick_reply_options": {
