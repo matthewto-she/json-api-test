@@ -10,8 +10,12 @@
 		}
 	  ],
 	  "redirect_to_blocks": [
-		"Form"
+		"Email Validate"
 	  ]
+	},
+	"nothing":
+	{
+	  
 	},
 	"different_buttons":
 	{
